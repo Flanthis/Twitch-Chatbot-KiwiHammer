@@ -1,0 +1,30 @@
+{
+  "name": "kiwihammer",
+  "version": "1.0.0",
+  "description": "Twitch chat that times out users who post illegal kiwis.",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "firebase": "^8.6.7",
+    "firebase-admin": "^9.9.0",
+    "tmi.js": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flanthis/Twitch-Chatbot-KiwiHammer.git"
+  },
+  "keywords": [
+    "twitch",
+    "kiwi"
+  ],
+  "author": "flanthis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flanthis/Twitch-Chatbot-KiwiHammer/issues"
+  },
+  "homepage": "https://github.com/Flanthis/Twitch-Chatbot-KiwiHammer#readme"
+}
